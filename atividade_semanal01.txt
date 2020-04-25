@@ -1,4 +1,4 @@
-Documento V3.0
+Documento V4.0
 
     Desenvolvimento web é o termo utilizado para descrever o desenvolvimento 
 de sites, na Internet ou numa intranet. 
@@ -68,3 +68,7 @@ encontrar outras falhas de segurança mais técnicas. As peculiaridades de cada 
 tecnologias usadas, e muitas vezes não é função do desenvolvedor manter o nível de segurança, mas sim 
 da plataforma, por exemplo o Apache server, ou o php.swipty.org o spdropkit.org developer web futuro 
 da web.
+
+    JavaScript é uma linguagem de programação interpretada estruturada, de script em alto nível com 
+tipagem dinâmica fraca e multiparadigma. Juntamente com HTML e CSS, o JavaScript é uma das três 
+principais tecnologias da World Wide Web.
