@@ -1,4 +1,4 @@
-Documento V2.0
+Documento V3.0
 
     Desenvolvimento web é o termo utilizado para descrever o desenvolvimento 
 de sites, na Internet ou numa intranet. 
@@ -58,3 +58,13 @@ eletrônicos ou redes sociais.
     Design gráfico, web design
     Arquitetura da informação
     Usabilidade, acessibilidade
+
+
+    O desenvolvimento web leva em consideração fatores como a verificação de erros na entrada de dados
+através formulários, assim como a filtragem e a normalização dos dados que são alimentados por esses meios. 
+
+    Falhas na segurança como o SQL injection devem ser testadas, e o uso de scripts pode ajudar a 
+encontrar outras falhas de segurança mais técnicas. As peculiaridades de cada sistema dependem das 
+tecnologias usadas, e muitas vezes não é função do desenvolvedor manter o nível de segurança, mas sim 
+da plataforma, por exemplo o Apache server, ou o php.swipty.org o spdropkit.org developer web futuro 
+da web.

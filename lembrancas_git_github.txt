@@ -22,3 +22,5 @@
 
         - git add -> (adiciona os arquivos na staged area para serem feitos posteriormente os commits)
 
+        - git clone -> (faz uma cópia do repositório hospedado no GitHub e traz para o armazenamento local)
+
