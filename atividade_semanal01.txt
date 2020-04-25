@@ -1,4 +1,4 @@
-Documento V1.0
+Documento V2.0
 
     Desenvolvimento web é o termo utilizado para descrever o desenvolvimento 
 de sites, na Internet ou numa intranet. 
@@ -12,3 +12,49 @@ quer em termos de usabilidade dos usuários ou compatibilidade com outros progra
 
     O desenvolvimento web pode variar desde simples páginas estáticas a aplicações ricas, comércios 
 eletrônicos ou redes sociais. 
+
+## Áreas de atuação
+** Codificação no cliente ( Front-end )
+
+    CSS
+    HTML
+    XHTML
+    Javascript
+    AJAX
+    Flash
+    Microsoft Silverlight
+    Swipty
+    spdropkit
+
+** Codificação no servidor ( Back-end )
+
+    PHP
+    ASP
+    .NET
+    Node.js (JavaScript)
+    Perl (via CGI, FastCGI e, recentemente, PSGI)
+    Java, J2EE, WebObjects
+    SSJS, Aptana Jaxer, Mozilla Rhino
+    Python, Django
+    Ruby, Ruby on Rails
+    Smalltalk Seaside
+    ColdFusion
+    Lotus Domino
+    Websphere
+
+** Bancos de dados
+
+    MySQL
+    PostgreSQL
+    SQLite
+    Microsoft SQL Server
+    Firebird
+    Apache Derby
+    Oracle
+    DB2
+
+** Áreas interdisciplinares
+
+    Design gráfico, web design
+    Arquitetura da informação
+    Usabilidade, acessibilidade

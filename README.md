@@ -18,7 +18,7 @@ Repositório voltado para a publicação dos conhecimentos "ainda existentes" ad
 
         - As tags são utilizadas para informar ao seu navegador a estrutura do site que está sendo acessado, tendo como principal característica de sempre estarem dentro dos sinais de "maior que" e "menor que", ou seja: < >.
 
-        - São divididas em dois tipos: as que precisam de fechamento e as que não precisam de fechamento. As tags que precisam de fechamento possuem a estrutura: "<tag></tag>". Já as que não precisam de fechamento possuem como estrutura a seguinte forma: "<tag/>".
+        - São divididas em dois tipos: as que precisam de fechamento e as que não precisam de fechamento. As tags que precisam de fechamento possuem a estrutura: <tag></tag>. Já as que não precisam de fechamento possuem como estrutura a seguinte forma: <tag/>.
 
         - Além disso, uma mesma tag pode receber um ou mais atributos, que possuirá um valor que modifica sua estrutura ou funcionalidade mais conhecido como "estilização".
 
@@ -38,29 +38,29 @@ Repositório voltado para a publicação dos conhecimentos "ainda existentes" ad
         ```
     4. **Exemplos de tags HTML**
 
-        - Tags de texto "<h1></h1> <h2></h2> <h3></h3> <h4></h4> <h5></h5> <h6></h6>"
+        - Tags de texto <h1></h1> <h2></h2> <h3></h3> <h4></h4> <h5></h5> <h6></h6>
 
-        - Tag para parágrafo "<p></p>"
+        - Tag para parágrafo <p></p>
 
-        - Tag para quebra de linha "<br/>"
+        - Tag para quebra de linha <br/>
 
-        - Tag para criar uma linha horizontal "<hr/>"
+        - Tag para criar uma linha horizontal <hr/>
 
-        - Tag para lista "<ul></ul> <ol></ol> <li></li>"
+        - Tag para lista <ul></ul> <ol></ol> <li></li>
 
-        - Tag para título "<title></title>"
+        - Tag para título <title></title>
 
-        - Tag para grupo de texto "<hgroup></hgroup>"
+        - Tag para grupo de texto <hgroup></hgroup>
 
-        - Tag para criar divisões "<div></div>"
+        - Tag para criar divisões <div></div>
 
-        - Tag para delimitar o rodapé "<footer></footer>"
+        - Tag para delimitar o rodapé <footer></footer>
 
-        - Tag para criar uma sessão na página "<section></section>"
+        - Tag para criar uma sessão na página <section></section>
 
-        - Tag para texto em negrito "<b></b>"
+        - Tag para texto em negrito <b></b>
 
-        - Tag para texto em itálico "<i></i>"
+        - Tag para texto em itálico <i></i>
 
 
     5. **Estilização de tags HTML**
