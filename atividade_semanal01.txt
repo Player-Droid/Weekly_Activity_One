@@ -1,0 +1,14 @@
+Documento V1.0
+
+    Desenvolvimento web é o termo utilizado para descrever o desenvolvimento 
+de sites, na Internet ou numa intranet. 
+
+    Este é o profissional que trabalha desenvolvendo websites, podendo ser 
+um Web Designer (Desenvolvedor do Layout), ou Web Developer(Desenvolvedor de sistemas). 
+
+    O desenvolvimento refere-se a um processo de construção e testes do software especifico para a web, 
+com a finalidade de se obter um conjunto de programas, que satisfazem as funções pretendidas, 
+quer em termos de usabilidade dos usuários ou compatibilidade com outros programas existentes. 
+
+    O desenvolvimento web pode variar desde simples páginas estáticas a aplicações ricas, comércios 
+eletrônicos ou redes sociais. 

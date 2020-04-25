@@ -1,0 +1,24 @@
+## Conceitos sobre versionamento de códigos utilizando o Git e o Github:
+
+    - É comumente utilizado no dia a dia de programadores para fazer o upload das versões de arquivos
+    feitas por eles, pois a cada dia de trabalho são feitas várias versões dos trabalhos sendo necessário
+    o versionamentos dos mesmos para um repositório possibilitando o fácil acesso a eles.
+
+    - Muito utilizado também para voltar às versões anteriores de arquivos caso haja algum erro ou simplesmente
+    se o programador/desenvolvedor quiser testar algo no projeto.
+
+    - Pode-se também, criar branchs(linhas do tempo) para desenvolver tecnologias em paralelo com o projeto 
+    inicial e também para fazer testes de outras funcionalidades no projeto.
+
+## Comandos de versionamento:
+    
+    # Exemplos:
+    
+        - git init -> (utilizado para iniciar/criar um novo repositório) 
+
+        - git status -> (usado para verificar o estado dos arquivos e diretórios no repositório local)
+
+        - git log -> (mostra os logs do repositório local)
+
+        - git add -> (adiciona os arquivos na staged area para serem feitos posteriormente os commits)
+
